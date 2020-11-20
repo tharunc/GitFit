@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/userProfileFragment">
+
+    <fragment
+        android:id="@+id/userProfileFragment"
+        android:name="com.example.mygithub.ui.fragment.UserProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_user_profile">
+        <action
+            android:id="@+id/action_userProfileFragment_to_userFollowersFragment"
+            app:destination="@id/userFollowersFragment" />
+        <action
+            android:id="@+id/action_userProfileFragment_to_userFollowingFragment"
+            app:destination="@id/userFollowingFragment" />
+        <action
+            android:id="@+id/action_userProfileFragment_to_userRepoFragment"
+            app:destination="@id/userRepoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/userFollowersFragment"
+        android:name="com.example.mygithub.ui.fragment.UserFollowersFragment"
+        android:label="Followers"
+        tools:layout="@layout/fragment_user_followers">
+        <argument
+            android:name="userName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/userFollowingFragment"
+        android:name="com.example.mygithub.ui.fragment.UserFollowingFragment"
+        android:label="Following"
+        tools:layout="@layout/fragment_user_following">
+        <argument
+            android:name="userName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/userRepoFragment"
+        android:name="com.example.mygithub.ui.fragment.UserRepoFragment"
+        android:label="Repo"
+        tools:layout="@layout/fragment_user_repo">
+        <argument
+            android:name="userName"
+            app:argType="string" />
+    </fragment>
+</navigation>
