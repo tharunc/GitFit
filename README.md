@@ -28,4 +28,36 @@ Just enter the github id of the user and compare the profiles.
 <img src="https://github.com/thinktocode/GitFit/blob/master/ScreenShots/light_user1.png" alt="drawing" width="200"/>
 <img src="https://github.com/thinktocode/GitFit/blob/master/ScreenShots/light_battle.png" alt="drawing" width="200"/>
 
-## Give it a ⭐ if you liked it.
+## Happy?? Star ⭐ this Repo. 🤩
+
+
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+##### Made with ❤️ By Namanbir Singh
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![ForTheBadge ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)
+
+> **_Need help?_** 
+> **_Feel free to contact us @ [dscjssnoida@gmail.com](mailto:idscjssnoida@gmail.com?Subject=DSCHackFest2020)_**
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/thinktocode" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/realNamanbir" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/namanbir-singh-262318178/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/thinktocode.in" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.youtube.com/c/thinktocode" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
+</div> 
