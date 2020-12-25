@@ -48,7 +48,7 @@ Just enter the github id of the user and compare the profiles.
 ![ForTheBadge ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)
 
 > **_Need help?_** 
-> **_Feel free to contact us @ [dscjssnoida@gmail.com](mailto:idscjssnoida@gmail.com?Subject=DSCHackFest2020)_**
+> **_Feel free to contact us @ [namanbir@programmingbuddy.io](mailto:idnamanbir@programmingbuddy.io?Subject=DSCHackFest2020)_**
 
 
 ## Connect with me  
