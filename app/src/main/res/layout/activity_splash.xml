@@ -9,7 +9,7 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layot_width="wrap_content"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:text="@string/build_with_by_namanbir"
@@ -21,7 +21,7 @@
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/imageView5"
         android:layout_width="150dp"
-        android:layout_height="150dp"u
+        android:layout_height="150dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

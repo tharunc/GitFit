@@ -4,10 +4,14 @@
       <root url="jar://$PROJECT_DIR$/../Android/.gradle/caches/transforms-2/files-2.1/fb1ff2ae0efbc692f9d356fad5624d4e/databinding-runtime-4.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../Android/.gradle/caches/transforms-2/files-2.1/fb1ff2ae0efbc692f9d356fad5624d4e/databinding-runtime-4.1.1/res" />
       <root url="file://$PROJECT_DIR$/../Android/.gradle/caches/transforms-2/files-2.1/fb1ff2ae0efbc692f9d356fad5624d4e/databinding-runtime-4.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/fb1ff2ae0efbc692f9d356fad5624d4e/databinding-runtime-4.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/fb1ff2ae0efbc692f9d356fad5624d4e/databinding-runtime-4.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/fb1ff2ae0efbc692f9d356fad5624d4e/databinding-runtime-4.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../Android/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/4.1.1/6a6259641f398863cf980d640264d9c8d5fd9528/databinding-runtime-4.1.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/4.1.1/6a6259641f398863cf980d640264d9c8d5fd9528/databinding-runtime-4.1.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
